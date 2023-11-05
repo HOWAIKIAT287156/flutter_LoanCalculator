@@ -80,7 +80,7 @@ class _InputScreenState extends State<InputScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Loan Calculator'),
+        title: Text('Loan Calculator wahahahah'),
       ),
       
       body: Padding(
